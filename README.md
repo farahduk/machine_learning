@@ -1,2 +1,2 @@
-# machine_leraning
-Macine learning tools and snippets.
+# machine_learning
+Machine learning tools and snippets.
