@@ -2,6 +2,9 @@
 Machine learning tools and snippets.
 
 
-# Python Machine Learning
+#  Machine Learning
 
-Using perceptron algorithm from the book Python Machine Learning, Sebastian Raschka and Vahid Mirjalili.
+Creating a colection with diferent programming languages.
+
+
+Perceptron with Python [Here](https://github.com/farahduk/machine_learning/tree/main/perceptron)
